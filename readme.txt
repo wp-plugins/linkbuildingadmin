@@ -1,1 +1,25 @@
-manso
+=== LinkBuildingAdmin Plugin ===
+Contributors: pablorsk
+Tags: linkbuilding, enlaces
+Tested up to: 3.2.1
+Stable tag: 0.0.1
+Requires at least: 3.0.0
+
+Administra tus intercambios de enlaces con www.LinkBuildingAdmin.com y se actualizarán automáticamente en tus blogs.
+
+== Description ==
+
+
+
+= Recommended Settings =
+
+
+== Changelog ==
+
+= 0.0.1 =
+* ?
+* ?
+
+== Links ==
+[WP Widget Cache](http://wordpress.org/extend/plugins/wp-widget-cache/) is another caching plugin for WordPress. This plugin caches the output of widgets and may significantly speed up dynamic page generation times.
+

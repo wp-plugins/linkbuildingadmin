@@ -1,15 +1,5 @@
-
-
-
-
-
-
 <div class="wrap">
 	<h2>Configuraci&oacute;n de LinkBuildingAdmin</h2>
-
-
-
-
 	<div class="postbox-container" style="width: 65%;">
 	<div class="metabox-holder">
 		<div class="meta-box-sortables ui-sortable">

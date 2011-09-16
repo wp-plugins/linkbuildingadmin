@@ -61,7 +61,7 @@
 		{
 			update_option('lba_uid', $_POST['lba_uid']);
 			update_option('lba_automatic', $_POST['lba_automatic']);
-			echo 'DATOS GUARDADOS';
+			echo '<div id="setting-error-settings_updated" class="updated settings-error"><p><strong>Ajustes guardados.</strong></p></div>';
 		}
 		include('panel.php');
 	}

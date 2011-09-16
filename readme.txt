@@ -15,26 +15,22 @@ Administra tus intercambios de enlaces con [http://www.linkbuildingadmin.com/ Li
 
 Además de centralizar las *altas y bajas de los enlaces salientes* de tus sitios, podrás:
 
-* administralos en conjunto con *otros usuarios*.
-* *controlar* si los demás sitios han quitado tus enlaces.
-* y *sin pagar* ni un centavo.
+* administralos en conjunto con **otros usuarios**.
+* **controlar si han quitado tus enlaces** de los demás sitios.
+* y totalmente **gratis**.
 
 == Installation ==
 
 Active y configure su plugin para enlazarlo a su cuenta de LinkBuildingAdmin
 
-# Suba la carpeta `linkbuildingadmin` a la carpeta `/wp-content/plugins/`
-# Active el plugin en la sección 'Plugins' de su panel de control de Wordpress
+1. Suba la carpeta `linkbuildingadmin` a la carpeta `/wp-content/plugins/`
+2. Active el plugin en la sección 'Plugins' de su panel de control de Wordpress
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= ¿Usar el sitio de LinkBuildingAdmin es gratis? =
 
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
+Si, todas las funciones son gratuitas.
 
 == Screenshots ==
 
@@ -47,7 +43,3 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 = 0.0.1 =
 * ?
 * ?
-
-== Links ==
-Sitio web de [LinkBuildingAdmin] Plugin: http://www.linkbuildingadmin.com/
-

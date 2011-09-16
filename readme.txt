@@ -1,8 +1,8 @@
 === LinkBuildingAdmin Plugin ===
 Contributors: pablorsk
 Tags: linkbuilding, enlaces, seo
+Stable tag: 0.2.1
 Tested up to: 3.2.1
-Stable tag: 0.2.0
 Requires at least: 3.0.0
 
 Administra tus intercambios de enlaces con www.LinkBuildingAdmin.com y se actualizarán automáticamente en tus blogs.

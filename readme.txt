@@ -2,7 +2,7 @@
 Contributors: pablorsk
 Tags: linkbuilding, enlaces
 Tested up to: 3.2.1
-Stable tag: 0.0.1
+Stable tag: 0.2.0
 Requires at least: 3.0.0
 
 Administra tus intercambios de enlaces con www.LinkBuildingAdmin.com y se actualizarán automáticamente en tus blogs.
@@ -26,5 +26,5 @@ Además de centralizar las altas y bajas de los enlaces salientes de tus sitios, 
 * ?
 
 == Links ==
-[WP Widget Cache](http://wordpress.org/extend/plugins/wp-widget-cache/) is another caching plugin for WordPress. This plugin caches the output of widgets and may significantly speed up dynamic page generation times.
+Sitio web de [LinkBuildingAdmin] Plugin: http://www.linkbuildingadmin.com/
 

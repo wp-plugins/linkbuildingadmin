@@ -74,7 +74,7 @@
 	add_action('deactivate_linkbuildingadmin/linkbuildingadmin.php', 'lba_uninstall');
 
 
-	// Agregar botón settings
+	// Agregar boton settings
 	function your_plugin_settings_link($links)
 	{
 	  $settings_link = '<a href="options-general.php?page=linkbuildingadmin">Settings</a>';

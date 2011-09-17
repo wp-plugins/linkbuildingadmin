@@ -9,7 +9,8 @@ Administra tus intercambios de enlaces con www.LinkBuildingAdmin.com y se actual
 
 == Description ==
 
-Administra tus intercambios de enlaces con [http://www.linkbuildingadmin.com/ LinkBuildingAdmin] y se actualizarán automáticamente en tus blogs.
+Administra tus intercambios de enlaces con [LinkBuildingAdmin](http://www.linkbuildingadmin.com/ "Link Building Admin")
+y se actualizarán automáticamente en tus blogs.
 
 = ¿Qué otras ventajas tengo con LinkBuildingAdmin? =
 

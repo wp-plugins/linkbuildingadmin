@@ -5,7 +5,7 @@ Stable tag: 0.2.1
 Tested up to: 3.2.1
 Requires at least: 3.0.0
 
-Administra tus intercambios de enlaces con www.LinkBuildingAdmin.com y se actualizarán automáticamente en tus blogs.
+Administra tus intercambios de enlaces con [www.LinkBuildingAdmin.com](http://www.linkbuildingadmin.com/ "LinkBuildingAdmin") y se actualizarán automáticamente en tus blogs.
 
 == Description ==
 

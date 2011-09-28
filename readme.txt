@@ -5,7 +5,7 @@ Stable tag: 0.2.1
 Tested up to: 3.2.1
 Requires at least: 3.0.0
 
-Administra tus intercambios de enlaces con [www.LinkBuildingAdmin.com](http://www.linkbuildingadmin.com/ "LinkBuildingAdmin") y se actualizarán automáticamente en tus blogs.
+Administra tus intercambios de enlaces con http://www.LinkBuildingAdmin.com/ y se actualizarán automáticamente en tus blogs.
 
 == Description ==
 
@@ -36,8 +36,8 @@ Si, todas las funciones son gratuitas.
 
 == Screenshots ==
 
-1. **Activity Streams** - Global, personal and group activity streams with threaded commenting, direct posting, favoriting and @mentions. All with full RSS feeds and email notification support.
-2. **Extended Profiles** - Fully editable rofile fields allow you to define the fields users can fill in to describe themselves. Tailor profile fields to suit your audience.
+1. **Tus intercambios en un sólo lugar** : Administra los intercambios de enlaces de todos tus proyectos en un sólo lugar.
+2. **Actualización automática y estados de tus convenios**: Controla si quitan los enlaces con los que deberían cumplirte. Además, cada vez que modificas los convenios, se actualizarán automáticamente tus blogs (¡para esto es el plugin! :P)
 
 [http://www.linkbuildingadmin.com/img/wpplugin/screenshot1.png  LinkBuildingAdmin]
 

@@ -9,8 +9,9 @@ Administra tus intercambios de enlaces con www.LinkBuildingAdmin.com y se actual
 
 == Description ==
 
-Administra tus intercambios de enlaces con [LinkBuildingAdmin](http://www.linkbuildingadmin.com/ "Link Building Admin")
-y se actualizarán automáticamente en tus blogs.
+**Administra tus intercambios de enlaces de varios sitios** con
+[LinkBuildingAdmin](http://www.linkbuildingadmin.com/ "Link Building Admin")
+y se actualizarán automáticamente en tus blogs que tengan el plugin.
 
 = ¿Qué otras ventajas tengo con LinkBuildingAdmin? =
 
@@ -24,8 +25,8 @@ Además de centralizar las *altas y bajas de los enlaces salientes* de tus sitio
 
 Active y configure su plugin para enlazarlo a su cuenta de LinkBuildingAdmin
 
-1. Suba la carpeta `linkbuildingadmin` a la carpeta `/wp-content/plugins/`
-2. Active el plugin en la sección 'Plugins' de su panel de control de Wordpress
+1. Suba la carpeta `linkbuildingadmin` a la carpeta `/wp-content/plugins/`.
+2. Active el plugin en la sección *Plugins* de su panel de control de Wordpress.
 
 == Frequently Asked Questions ==
 
@@ -35,9 +36,9 @@ Si, todas las funciones son gratuitas.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
+[http://www.linkbuildingadmin.com/img/wpplugin/screenshot1.png  LinkBuildingAdmin]
+
+[http://www.linkbuildingadmin.com/img/wpplugin/screenshot2.png  Funcionamiento basico de LinkBuildingAdmin]
 
 == Changelog ==
 

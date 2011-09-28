@@ -36,6 +36,9 @@ Si, todas las funciones son gratuitas.
 
 == Screenshots ==
 
+1. **Activity Streams** - Global, personal and group activity streams with threaded commenting, direct posting, favoriting and @mentions. All with full RSS feeds and email notification support.
+2. **Extended Profiles** - Fully editable rofile fields allow you to define the fields users can fill in to describe themselves. Tailor profile fields to suit your audience.
+
 [http://www.linkbuildingadmin.com/img/wpplugin/screenshot1.png  LinkBuildingAdmin]
 
 [http://www.linkbuildingadmin.com/img/wpplugin/screenshot2.png  Funcionamiento basico de LinkBuildingAdmin]
